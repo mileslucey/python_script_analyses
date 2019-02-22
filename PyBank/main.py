@@ -2,7 +2,7 @@
 import os
 import csv
 # establishing paths
-csv_path = os.path.join('03-Python_Homework 3 Python_Instructions_PyBank_Resources_budget_data.csv')
+csv_path = os.path.join('bank_data.csv')
 output_path = os.path.join("output.txt")
 # establishing variables to help with organization
 total_months = 0
