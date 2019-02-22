@@ -16,7 +16,7 @@
         * The winner of the election based on popular vote
 ### Files
 * Each of the two analyses includes the following:
-   * A csv file with the data used in each analysis
-   * A Python value that calculates the desired metrics from the csv
-   * A text file that the Python code outputs
+   * A CSV file with the data used in each analysis
+   * A Python file that calculates the desired metrics from each of the CSV files
+   * A text file with the results from each of the Python scripts
         
