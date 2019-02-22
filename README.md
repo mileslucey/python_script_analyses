@@ -14,4 +14,9 @@
         * The percentage of votes each candidate won
         * The total number of votes each candidate won
         * The winner of the election based on popular vote
+### Files
+* Each of the two analyses includes the following:
+   * A csv file with the data used in each analysis
+   * A Python value that calculates the desired metrics from the csv
+   * A text file that the Python code outputs
         
